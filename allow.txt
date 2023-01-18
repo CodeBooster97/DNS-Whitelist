@@ -1,2 +1,3 @@
 mixpanel.com
 cdn.mxpnl.com
+*.segment.com
